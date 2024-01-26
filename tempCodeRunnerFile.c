@@ -1,0 +1,1 @@
+printf("inside function a=%d\n  b=%d\n",*a,*b);
